@@ -1,0 +1,6 @@
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe.config
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\bin\Debug\DirectoryTraversal.pdb
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\obj\Debug\DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\obj\Debug\DirectoryTraversal.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\DirectoryTraversal\obj\Debug\DirectoryTraversal.pdb

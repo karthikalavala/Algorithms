@@ -1,0 +1,6 @@
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\bin\Debug\BFS.exe.config
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\bin\Debug\BFS.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\bin\Debug\BFS.pdb
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\obj\Debug\BFS.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\BFS\obj\Debug\BFS.pdb

@@ -1,0 +1,6 @@
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\bin\Debug\Graph_AdjMatrix.exe.config
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\bin\Debug\Graph_AdjMatrix.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\bin\Debug\Graph_AdjMatrix.pdb
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\obj\Debug\Graph_AdjMatrix.csprojResolveAssemblyReference.cache
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\obj\Debug\Graph_AdjMatrix.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Graph_AdjMatrix\obj\Debug\Graph_AdjMatrix.pdb

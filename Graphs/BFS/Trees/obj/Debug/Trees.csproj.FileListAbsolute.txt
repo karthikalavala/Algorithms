@@ -1,0 +1,6 @@
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\bin\Debug\Trees.exe.config
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\bin\Debug\Trees.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\bin\Debug\Trees.pdb
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\obj\Debug\Trees.exe
+D:\WorkaroundProjs\Algorithms\Graphs\BFS\Trees\obj\Debug\Trees.pdb
